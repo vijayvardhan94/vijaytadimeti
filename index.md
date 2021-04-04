@@ -2,50 +2,47 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I am a Ph.D. student at ...
+Hi! I'm currently a Project Instructor at Oregon State University, in the [Senior Capstone Design](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects) team. In addition to this, I'm also currently teaching Software Engineering II in the school of EECS. Prior to joining OSU as Project Instructor, I graduated from OSU with a Masters in Computer Science. 
 
-## Research Interests
+At OSU, I was in the [Software Innovation Track](https://eecs.oregonstate.edu/future-students/graduate/ms-cs-innovation) and was a Graduate Assistant for Software Engineering and Web Development courses. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Experience
 
-## News
+- **Project Instructor, Oregon State University:**  Providing resources and guidance in practical design implementation- Including building/programming, effective timeline and phase based project management. <br>
+Current project domains include: Software Engineering, Cloud Application Development, Data analytics and Visualization, Full Stack Web Development. 
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **Graduate Assistant, Oregon State University:** Developed the GTAAssignment (now IdealLogic) system to automate the task of appointing teaching assistants to classes. <br>
+Graduate assistant for Web Development & Software Engineering courses.
 
-## Publications
+- **Application Devlopment Specialist I, IQVIA Inc.** Developed web-based solutions, custom CRM dashboards and integrated third-party APIs to CRM platforms for use by Medical reps and Liasons. 
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+## Domains
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+- I've worked as a Software Engineer in the following domains - **University/Academia** , **Healthcare Analytics** and **E-learning**.
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+## Projects
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+My projects and their source code can be found in my [Github](https://github.com/vijayvardhan94). I'm listing a few below:
+
+- **Healthcare platform integrated with Fitbit API** -  Developed a health and activity tracking web application using Rails for CS 561 that uses Devise, and Fitbit API. [Link](https://github.com/vijayvardhan94/SEM_561_Project)
+
+- **Personal Analytics and Quantified Self** -  Collection of resources, research and applicaitons related to Quantified Self and Personal Analytics. [Link](https://github.com/vijayvardhan94/Personal-Analytics-Resources)
+
+- **FolioMinimal** - Easy to setup,  mimimalistic portfolio theme.[Link](https://github.com/vijayvardhan94/FolioMinimal)
+
+- **Platform to run basic tests on multiple third party APIs in one place.**[Link](http://kaplancodingtest.herokuapp.com/)
+
+
+
+
+## Skillsets
+
+- **Programming Languages**: Python, Javascript, Ruby, R.
+- **Web Technologies**: HTML5, CSS3, Bootstrap, Javascript, NodeJS, ExpressJs, Ruby on Rails, REST APIs.
+- **Databases**: SQL, MongoDB.
+- **Tools**: Git, Docker, XML, JSON.
+- **Methodologies & Practices**: Agile, TDD, OOP, MVC, CI/CD,SDLC.
+
